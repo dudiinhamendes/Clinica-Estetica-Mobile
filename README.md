@@ -15,15 +15,28 @@ Aplicar os conhecimentos adquiridos em desenvolvimento mobile, criando uma aplic
 
 
 ## ✨ Funcionalidades
-
+- Autenticação com dois perfis de acesso (Usuário e Administrador)
 - Cadastro de serviços
 - Edição e exclusão de serviços
 - Agendamento de atendimentos
 - Persistência de dados em arquivos JSON
 - Consumo de API REST
 
-## 🛠️ Tecnologias utilizadas
+## 📷 Preview
 
+### 👤 Modo Usuário
+
+Tela inicial destinada aos clientes, permitindo visualizar os serviços disponíveis e realizar agendamentos.
+
+![Home Usuário](Images/ClinicaHomeUsuario.png)
+
+### 👨‍💼 Modo Administrador
+
+Tela inicial destinada ao administrador, com acesso às funcionalidades de gerenciamento de serviços e agendamentos.
+
+![Home Administrador](Images/ClinicaHomeAdmin.png)
+
+## 🛠️ Tecnologias utilizadas
 - C#
 - .NET MAUI
 - XAML
